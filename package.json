@@ -1,0 +1,19 @@
+{
+  "name": "newsbox",
+  "productName": "News Box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "admin <admin@sapient.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
